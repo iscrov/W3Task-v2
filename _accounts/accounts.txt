@@ -1,0 +1,8 @@
+Database
+U:sample
+P:sample
+DB:sample
+
+Magento Admin:
+U:user
+P:user1234
